@@ -4,13 +4,12 @@
 
 # Site
 title: 陈一发儿
-subtitle:
-description:
-keywords:
+subtitle: 童话镇里一枝花, 人美歌甜陈一发
+description: 陈一发儿,山城降生,前设计院院花,直播界泥石流,不睡者,万儿之母,暴击女王,斗鱼主机区的解放者,约德尔人、霍比特人的女王,67373统治者暨418094守护者,大泳池划水的卡丽熙,打碎三观之人,花式飙车界,网易云音乐登顶之人,女神篇台柱子,著名移动景点,丹妮一发·陈格利安.
+keywords: 陈一发儿, 斗鱼陈一发儿, 斗鱼陈一发, 陈一发, 小发, 发发, 陈一发儿个人主页, 斗鱼67373, 67373, 418094
 author: 陈一发儿
 language:
-  - zh-Hans
-  - zh-tw
+  - zh-CN
   - en
 timezone:
 
@@ -76,7 +75,30 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fafaer-blog-theme-magic
+theme: fafaer-blog-theme-magic-new
+
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+
+search:
+  # path - file path. By default is search.xml . If the file extension is .json, the output format will be JSON. Otherwise XML format file will be exported.
+  path: search.xml
+  # field - the search scope you want to search, you can chose:
+  #  post (Default) - will only covers all the posts of your blog.
+  #  page - will only covers all the pages of your blog.
+  #  all - will covers all the posts and pages of your blog.
+  field: all
+  # format - the form of the page contents, works with xml mode, options are:
+  #  html (Default) - original html string being minified.
+  #  raw - markdown text of each posts or pages.
+  #  excerpt - only collect excerpt.
+  #  more - act as you think.
+  format: html
+  #limit - define the maximum number of posts being indexed, always prefer the newest.
+  limit: 10000
 
 # hexo-admin authentification
 admin:
