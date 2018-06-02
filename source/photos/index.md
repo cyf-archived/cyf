@@ -6,7 +6,7 @@ albums:
  - {
  title: 斗鱼嘉年华, 
  date: 2018-05-01, 
- desc: 18年斗鱼嘉年华 <i class="fa fa-location-arrow"></i>武汉,
+ desc: 18年斗鱼嘉年华&nbsp;&nbsp;<i class="fa fa-location-arrow"></i>武汉,
  photos: 
    [{title: 发发, photo: https://cdn.chenyifaer.com/images/3409DF227A29D727229303FD89EB822E.jpg},
     {title: 发发, photo: https://cdn.chenyifaer.com/images/16A65955E4A6AD08B21F759EC4626B41.jpg},
