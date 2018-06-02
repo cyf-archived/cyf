@@ -1,5 +1,5 @@
 ---
-title: 图片墙
+title: Photos
 date: 2018-05-20 12:21:16
 type: "albums"
 albums:
