@@ -110,6 +110,6 @@ admin:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gitee.com/upcwangying/fafaer-blog-pages.git
+  repo: https://github.com/upcwangying/fafaerblog.git
   branch: dev
 
