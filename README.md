@@ -1,3 +1,7 @@
 # Blog
 
-个人博客
+1. hexo clean
+
+2. hexo g && gulp
+
+3. hexo d
