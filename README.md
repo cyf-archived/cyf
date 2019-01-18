@@ -1,7 +1,5 @@
 # Blog
 
-1. hexo clean
+1. hexo clean && hexo g && gulp
 
-2. hexo g && gulp
-
-3. hexo d
+2. hexo d
