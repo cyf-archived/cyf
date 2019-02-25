@@ -1,5 +1,6 @@
 # Blog
 
-1. hexo clean && hexo g && gulp
 
-2. hexo d
+```text
+hexo clean && hexo g && gulp && hexo d
+```
