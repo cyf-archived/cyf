@@ -110,6 +110,6 @@ admin:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/chenyifaerfans/chenyifaerfans.github.io.git
+  repo: https://github.com/upcwangying/chenyifaerfans.github.io.git
   branch: dev
 
