@@ -100,12 +100,6 @@ search:
   #limit - define the maximum number of posts being indexed, always prefer the newest.
   limit: 10000
 
-# hexo-admin authentification
-admin:
-  username: admin
-  password_hash:
-  secret:
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
