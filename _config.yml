@@ -102,8 +102,8 @@ search:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/upcwangying/chenyifaerfans.github.io.git
-  branch: dev
+#deploy:
+#  type: git
+#  repo: https://github.com/upcwangying/chenyifaerfans.github.io.git
+#  branch: dev
 
