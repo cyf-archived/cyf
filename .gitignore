@@ -100,3 +100,4 @@ typings/
 .next
 
 sites/
+/package-lock.json
