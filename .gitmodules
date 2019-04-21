@@ -1,3 +1,3 @@
-[submodule "themes/fafaer-blog-theme-magic-new"]
-	path = themes/fafaer-blog-theme-magic-new
-	url = git@kjxbyz.github.com:chenyifaerfans/fafaer-blog-theme-magic-new.git
+[submodule "themes/fafaer-theme-next"]
+	path = themes/fafaer-theme-next
+	url = git@kjxbyz.github.com:chenyifaerfans/fafaer-theme-next.git
