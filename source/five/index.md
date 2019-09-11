@@ -8,3 +8,6 @@ comments: false
 
 {% dplayer "url=https://cdn.chenyifaer.com/five/videos/five.mp4" "pic=https://cdn.chenyifaer.com/five/images/IMG_7252.JPG" "loop=yes" "theme=#FADFA3" "autoplay=false" %}
 
+67373五周年水友祝福♥♥♥
+
+{% dplayer "url=https://cdn.chenyifaer.com/five/videos/fans.mp4" "pic=https://cdn.chenyifaer.com/five/images/IMG_7259.PNG" "loop=yes" "theme=#FADFA3" "autoplay=false" %}
