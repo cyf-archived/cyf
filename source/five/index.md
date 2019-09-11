@@ -4,4 +4,7 @@ date: 2018-09-09 13:58:01
 comments: false
 ---
 
-五周年即将到来, 可将信息汇总到此专题下.
+67373五岁啦，祝发发直播5周年快乐♥♥♥也一起感谢大家的陪伴！😊😊😊 
+
+{% dplayer "url=https://cdn.chenyifaer.com/five/videos/five.mp4" "pic=https://cdn.chenyifaer.com/five/images/IMG_7252.JPG" "loop=yes" "theme=#FADFA3" "autoplay=false" %}
+
