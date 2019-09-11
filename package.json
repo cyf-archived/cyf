@@ -28,6 +28,7 @@
     "hexo-server": "^0.2.0",
     "hexo-symbols-count-time": "^0.4.2",
     "hexo-tag-aplayer": "^3.0.4",
+    "hexo-tag-dplayer": "^0.3.3",
     "natives": "^1.1.6"
   }
 }
