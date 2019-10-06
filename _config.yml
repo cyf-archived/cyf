@@ -112,6 +112,6 @@ deploy:
   name: kjxbyz
   email: kjxbyz@163.com
   repo:
-    github: git@kjxbyz.github.com:chenyifaerfans/fafaer-blog.git,gh-pages-dev
-    gitee: git@kjxbyz.gitee.com:chenyifaerfans/fafaer-blog.git,gh-pages-dev
+    github: git@kjxbyz.github.com:chenyifaerfans/chenyifaerfans.github.io.git,gh-pages-dev
+    gitee: git@kjxbyz.gitee.com:chenyifaerfans/chenyifaerfans.git,gh-pages-dev
 
