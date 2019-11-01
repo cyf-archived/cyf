@@ -1789,9 +1789,9 @@ hexo-renderer-marked@^0.3.0:
     object-assign "^4.1.1"
     strip-indent "^2.0.0"
 
-hexo-renderer-stylus@^0.3.1:
-  version "0.3.3"
-  resolved "http://registry.npm.taobao.org/hexo-renderer-stylus/download/hexo-renderer-stylus-0.3.3.tgz#c54ea27e1fd8e3c8a9a7a84cfba8ad354122ca7f"
+hexo-renderer-stylus@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-stylus/-/hexo-renderer-stylus-1.1.0.tgz#7a0a107bcf4b74fdf88f28da2db47b8dc9e208e5"
   dependencies:
     nib "^1.1.2"
     stylus "^0.54.5"
