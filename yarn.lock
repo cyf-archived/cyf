@@ -1740,12 +1740,11 @@ hexo-generator-searchdb@^1.0.8:
     striptags latest
     utils-merge "^1.0.0"
 
-hexo-generator-tag@^0.2.0:
-  version "0.2.0"
-  resolved "http://registry.npm.taobao.org/hexo-generator-tag/download/hexo-generator-tag-0.2.0.tgz#c5715846bb41e57d9c20c1d66d7db21a1abf7a62"
+hexo-generator-tag@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-tag/-/hexo-generator-tag-1.0.0.tgz#54ec23de9409c75584ea81e36057a59031b022f1"
   dependencies:
-    hexo-pagination "0.0.2"
-    object-assign "^4.0.1"
+    hexo-pagination "1.0.0"
 
 hexo-i18n@^0.2.1:
   version "0.2.1"
@@ -1772,6 +1771,10 @@ hexo-pagination@0.0.2:
   resolved "http://registry.npm.taobao.org/hexo-pagination/download/hexo-pagination-0.0.2.tgz#8cf470c7db0de5b18a3926a76deb194015df7f2b"
   dependencies:
     utils-merge "^1.0.0"
+
+hexo-pagination@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-pagination/-/hexo-pagination-1.0.0.tgz#c9c0ca3665267b9e9d0a89fc3edcaf3276907dc1"
 
 hexo-renderer-ejs@^0.3.0:
   version "0.3.1"
