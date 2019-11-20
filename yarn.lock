@@ -924,10 +924,6 @@ ee-first@1.1.1:
   version "1.1.1"
   resolved "http://registry.npm.taobao.org/ee-first/download/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
 
-ejs@^1.0.0:
-  version "1.0.0"
-  resolved "http://registry.npm.taobao.org/ejs/download/ejs-1.0.0.tgz#c9c60a48a46ee452fb32a71c317b95e5aa1fcb3d"
-
 ejs@^2.3.4:
   version "2.6.1"
   resolved "http://registry.npm.taobao.org/ejs/download/ejs-2.6.1.tgz#498ec0d495655abc6f23cd61868d926464071aa0"
@@ -1732,13 +1728,11 @@ hexo-generator-index-pin-top@^0.2.2:
     hexo-pagination "0.0.2"
     object-assign "^4.0.1"
 
-hexo-generator-searchdb@^1.0.8:
-  version "1.0.8"
-  resolved "http://registry.npm.taobao.org/hexo-generator-searchdb/download/hexo-generator-searchdb-1.0.8.tgz#04245256e1413a66313932dbf1c0a7e568559301"
+hexo-generator-searchdb@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-searchdb/-/hexo-generator-searchdb-1.2.0.tgz#ebf1ec38be78d447d4ae7b7f358d312473a7a90b"
   dependencies:
-    ejs "^1.0.0"
-    striptags latest
-    utils-merge "^1.0.0"
+    nunjucks "^3.2.0"
 
 hexo-generator-tag@^0.2.0:
   version "0.2.0"
@@ -2866,7 +2860,7 @@ number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "http://registry.npm.taobao.org/number-is-nan/download/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
 
-nunjucks@^3.1.2:
+nunjucks@^3.1.2, nunjucks@^3.2.0:
   version "3.2.0"
   resolved "http://registry.npm.taobao.org/nunjucks/download/nunjucks-3.2.0.tgz#53e95f43c9555e822e8950008a201b1002d49933"
   dependencies:
@@ -3718,10 +3712,6 @@ strip-json-comments@~2.0.1:
 striptags@^2.1.1:
   version "2.2.1"
   resolved "http://registry.npm.taobao.org/striptags/download/striptags-2.2.1.tgz#4c450b708d41b8bf39cf24c49ff234fc6aabfd32"
-
-striptags@latest:
-  version "3.1.1"
-  resolved "http://registry.npm.taobao.org/striptags/download/striptags-3.1.1.tgz#c8c3e7fdd6fb4bb3a32a3b752e5b5e3e38093ebd"
 
 stylus@0.54.5, stylus@^0.54.5:
   version "0.54.5"
