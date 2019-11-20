@@ -1,6 +1,3 @@
-# Blog
+# 小橘猫博客
 
-
-```text
-hexo clean && hexo g && gulp && hexo d
-```
+如果您对网站有好的建议，[传送门](https://github.com/chenyifaerfans/fafaer-blog/issues/35)
