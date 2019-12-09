@@ -14,7 +14,7 @@
     "gulp-htmlmin": "^4.0.0",
     "gulp-minify-css": "^1.2.4",
     "gulp-uglify": "^3.0.0",
-    "hexo": "^3.2.0",
+    "hexo": "^4.1.0",
     "hexo-deployer-git": "^0.3.1",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-category": "^0.1.3",
