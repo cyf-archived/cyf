@@ -13,7 +13,6 @@ branches:
 before_install:
   - yarn global add hexo-cli
 
-# Start: Build Lifecycle
 install:
   - yarn install
 
