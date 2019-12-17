@@ -1,0 +1,30 @@
+language: node_js
+sudo: required
+node_js:
+  - 7.9.0
+cache:
+  directories:
+    - node_modules
+
+branches:
+  only:
+    - master
+
+before_install:
+  - yarn global add hexo-cli
+
+# Start: Build Lifecycle
+install:
+  - yarn install
+
+script:
+  - hexo clean && hexo g && gulp
+
+after_script:
+  - git config user.name "upcwangying"
+  - git config user.email "upcwangying@126.com"
+  # 替换同目录下的_config.yml文件中github_token字符串为travis后台刚才配置的变量，注意此处sed命令用了双引号。单引号无效！
+  - sed -i "s/github_token/${GITHUB_TOKEN}/g" ./_config.yml
+  - sed -i "s/gitee_token/${GITEE_TOKEN}/g" ./_config.yml
+  - cat ./_config.yml
+  - hexo deploy
