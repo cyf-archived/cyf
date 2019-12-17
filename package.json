@@ -16,7 +16,7 @@
     "gulp-uglify": "3.0.0",
     "hexo": "3.8.0",
     "hexo-deployer-git": "0.3.1",
-    "hexo-generator-archive": "0.1.4",
+    "hexo-generator-archive": "1.0.0",
     "hexo-generator-category": "1.0.0",
     "hexo-generator-index-pin-top": "0.2.2",
     "hexo-generator-searchdb": "1.2.0",

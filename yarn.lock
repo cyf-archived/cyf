@@ -1748,13 +1748,12 @@ hexo-fs@^0.2.0, hexo-fs@^0.2.2:
     escape-string-regexp "^1.0.5"
     graceful-fs "^4.1.4"
 
-hexo-generator-archive@0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/hexo-generator-archive/-/hexo-generator-archive-0.1.4.tgz#16df76ec9187e510dff6c192204b0f7f7c506069"
-  integrity sha1-Ft927JGH5RDf9sGSIEsPf3xQYGk=
+hexo-generator-archive@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-archive/-/hexo-generator-archive-1.0.0.tgz#ad2afb12232a65e2f8608fc1ca3f19162fb63786"
+  integrity sha512-24TeanDGpMBUIq37DHpSESQbeN6ssZ06edsGSI76tN4Yit50TgsgzP5g5DSu0yJk0jUtHJntysWE8NYAlFXibA==
   dependencies:
-    hexo-pagination "0.0.2"
-    object-assign "^2.0.0"
+    hexo-pagination "1.0.0"
 
 hexo-generator-category@1.0.0:
   version "1.0.0"
@@ -2969,10 +2968,6 @@ nunjucks@^3.1.2, nunjucks@^3.2.0:
     yargs "^3.32.0"
   optionalDependencies:
     chokidar "^2.0.0"
-
-object-assign@^2.0.0:
-  version "2.1.1"
-  resolved "http://registry.npm.taobao.org/object-assign/download/object-assign-2.1.1.tgz#43c36e5d569ff8e4816c4efa8be02d26967c18aa"
 
 object-assign@^3.0.0:
   version "3.0.0"
