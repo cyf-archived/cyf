@@ -20,8 +20,8 @@ script:
   - hexo clean && hexo g && gulp
 
 after_script:
-  - git config user.name "upcwangying"
-  - git config user.email "upcwangying@126.com"
+  - git config user.name "kjxbyz"
+  - git config user.email "kjxbyz@163.com"
   # 替换同目录下的_config.yml文件中github_token字符串为travis后台刚才配置的变量，注意此处sed命令用了双引号。单引号无效！
   - sed -i "s/github_token/${GITHUB_TOKEN}/g" ./_config.yml
   - sed -i "s/gitee_token/${GITEE_TOKEN}/g" ./_config.yml
