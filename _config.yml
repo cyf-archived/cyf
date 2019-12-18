@@ -108,10 +108,9 @@ lazyload:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  name: kjxbyz
-  email: kjxbyz@163.com
-  repo:
-    github: git@kjxbyz.github.com:chenyifaerfans/chenyifaerfans.github.io.git,gh-pages-dev
-    gitee: git@kjxbyz.gitee.com:chenyifaerfans/chenyifaerfans.git,gh-pages-dev
-
+- type: git
+  repo: https://kjxbyz:github_token@github.com:chenyifaerfans/chenyifaerfans.github.io.git
+  branch: master
+- type: git
+  repo: https://kjxbyz:gitee_token@gitee.com:chenyifaerfans/chenyifaerfans.git
+  branch: master
