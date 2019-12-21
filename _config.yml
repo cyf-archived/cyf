@@ -109,8 +109,8 @@ lazyload:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repo: https://github_token@github.com:chenyifaerfans/chenyifaerfans.github.io.git
-  branch: gh-pages-dev
+  repo: https://kjxbyz:github_token@github.com:chenyifaerfans/chenyifaerfans.github.io.git
+  branch: master
 - type: git
-  repo: https://gitee_token@gitee.com:chenyifaerfans/chenyifaerfans.git
-  branch: gh-pages-dev
+  repo: https://kjxbyz:gitee_token@gitee.com:chenyifaerfans/chenyifaerfans.git
+  branch: master
