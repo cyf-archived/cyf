@@ -1,9 +1,36 @@
 {
-  "files": ["CONTRIBUTORS.md"],
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-  "skipCi": "true",
-  "contributors": []
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "kjxbyz",
+      "name": "kjxbyz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47768002?v=4",
+      "profile": "https://kjxbyz.com",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "liujunyi271828",
+      "name": "liujunyi271828",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16301295?v=4",
+      "profile": "https://github.com/liujunyi271828",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "projectName": "fafaer-blog",
+  "projectOwner": "chenyifaerfans",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
