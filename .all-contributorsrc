@@ -9,6 +9,17 @@
   "skipCi": true,
   "contributors": [
     {
+      "login": "kjxbyz",
+      "name": "kjxbyz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47768002?v=4",
+      "profile": "https://kjxbyz.com",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
       "login": "liujunyi271828",
       "name": "liujunyi271828",
       "avatar_url": "https://avatars0.githubusercontent.com/u/16301295?v=4",
