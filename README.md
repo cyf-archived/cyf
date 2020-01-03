@@ -1,6 +1,6 @@
 # 小橘猫博客
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/093e9a03-9b2e-4686-aead-4c54ac83a208/deploy-status)](https://app.netlify.com/sites/thebs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/093e9a03-9b2e-4686-aead-4c54ac83a208/deploy-status)](https://app.netlify.com/sites/chenyifaer/deploys)
 
 如果您对网站有好的建议，[传送门](https://github.com/chenyifaerfans/fafaer-blog/issues/35)
 
