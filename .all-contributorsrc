@@ -27,6 +27,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "upcwangying",
+      "name": "upcwangying",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19725091?v=4",
+      "profile": "https://upcwangying.com",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "projectName": "fafaer-blog",
