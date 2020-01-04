@@ -2,10 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/093e9a03-9b2e-4686-aead-4c54ac83a208/deploy-status)](https://app.netlify.com/sites/chenyifaer/deploys)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fchenyifaer.com)](https://chenyifaer.com)
-[![GitHub issues](https://img.shields.io/github/issues/chenyifaerfans/fafaer-blog)](https://github.com/chenyifaerfans/fafaer-blog/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/chenyifaerfans/fafaer-blog)](https://github.com/chenyifaerfans/fafaer-blog/pulls)
 ![GitHub repo size](https://img.shields.io/github/repo-size/chenyifaerfans/fafaer-blog)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/chenyifaerfans/fafaer-blog)
 ![GitHub last commit](https://img.shields.io/github/last-commit/chenyifaerfans/fafaer-blog)
 [![GitHub](https://img.shields.io/github/license/chenyifaerfans/fafaer-blog)](https://github.com/chenyifaerfans/fafaer-blog/blob/master/LICENSE.md)
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/chenyifaerfans/fafaer-blog/hexo)
