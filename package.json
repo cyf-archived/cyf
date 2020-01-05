@@ -2,13 +2,29 @@
   "name": "fafaer-blog",
   "version": "0.0.0",
   "private": true,
-  "hexo": {
-    "version": "3.8.0"
-  },
   "scripts": {
     "start": "hexo server -p 1000"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "lint-staged": {
+    "package.json": [
+      "sort-package-json",
+      "git add"
+    ]
+  },
   "dependencies": {
+    "@commitlint/cli": "8.3.4",
+    "@commitlint/config-conventional": "8.3.4",
     "gulp": "3.9.1",
     "gulp-htmlclean": "2.7.22",
     "gulp-htmlmin": "4.0.0",
@@ -29,6 +45,12 @@
     "hexo-symbols-count-time": "0.7.0",
     "hexo-tag-aplayer": "3.0.4",
     "hexo-tag-dplayer": "0.3.3",
-    "natives": "1.1.6"
+    "husky": "3.0.5",
+    "lint-staged": "9.2.5",
+    "natives": "1.1.6",
+    "sort-package-json": "1.22.1"
+  },
+  "hexo": {
+    "version": "3.8.0"
   }
 }
