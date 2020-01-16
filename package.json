@@ -41,7 +41,7 @@
     "natives": "1.1.6"
   },
   "devDependencies": {
-    "@commitlint/cli": "8.3.4",
+    "@commitlint/cli": "8.3.5",
     "@commitlint/config-conventional": "8.3.4",
     "gulp": "3.9.1",
     "gulp-htmlclean": "2.7.22",
