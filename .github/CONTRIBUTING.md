@@ -106,7 +106,7 @@ photos:
 
 1. 贡献者编写好markdown文档后，发送邮件给[维护者](mailto:me@chenyifaer.com)
 
-2. 如果贡献者熟悉[Git](https://git-scm.com/)，可以fork[GitHub repo](https://github.com/chenyifaerfans/fafaer-blog)后，提交[pr](https://help.github.com/en/articles/about-pull-requests)
+2. 如果贡献者熟悉[Git](https://git-scm.com/)，可以fork[GitHub repo](https://github.com/chenyifaerfans/chenyifaerfans)后，提交[pr](https://help.github.com/en/articles/about-pull-requests)
 
 注意：
 
