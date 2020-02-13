@@ -48,7 +48,7 @@
     "gulp-htmlmin": "4.0.0",
     "gulp-minify-css": "1.2.4",
     "gulp-uglify": "3.0.0",
-    "husky": "3.0.5",
+    "husky": "4.2.3",
     "lint-staged": "9.2.5",
     "sort-package-json": "1.22.1"
   },
