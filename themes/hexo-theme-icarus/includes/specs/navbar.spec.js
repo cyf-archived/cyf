@@ -24,7 +24,7 @@ module.exports = {
         [defaultValue]: {
             'Download on GitHub': {
                 icon: 'fab fa-github',
-                url: 'https://github.com/ppoffice/hexo-theme-icarus'
+                url: 'https://github.com/chenyifaerfans/chenyifaerfans'
             }
         }
     }
