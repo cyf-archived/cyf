@@ -9,7 +9,7 @@ canonical_url:
 # Path or URL to RSS atom.xml
 rss:
 # Path or URL to the website's logo to be shown on the left of the navigation bar or footer
-logo: https://cdn.chenyifaer.com/images/avatar.jpg
+logo: /images/logo.jpg
 # Open Graph metadata
 # https://hexo.io/docs/helpers.html#open-graph
 open_graph:
