@@ -3071,10 +3071,10 @@ hexo-i18n@^0.2.1:
   dependencies:
     sprintf-js "^1.0.2"
 
-hexo-lazyload-image@1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/hexo-lazyload-image/-/hexo-lazyload-image-1.0.5.tgz#a8068dfd54f8dfa6e0387ce3275c2459aa5aa9d6"
-  integrity sha512-rk42uhh7v4FD1Fsf82vtpXS2TygyifrD0b/1XsJE+IJTpsxOTDv57nZZblYSXwka+OSfSeGpohaIjE54vuAOyw==
+hexo-lazyload-image@1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/hexo-lazyload-image/-/hexo-lazyload-image-1.0.6.tgz#4c72f99e0f5f083c34fefb696861924f15ea8525"
+  integrity sha512-cG11Ur+heljGX30a+l2THjBJizNxvB6UT2QWO4O1A/AxFjFIaDb3YOdsSBfmgO+oqoObIop+4zYP894Bt6VixQ==
   dependencies:
     uglify-js "^3.0.27"
 
@@ -6182,14 +6182,7 @@ uglify-js@3.4.x:
     commander "~2.19.0"
     source-map "~0.6.1"
 
-uglify-js@^3.0.27, uglify-js@^3.0.5:
-  version "3.5.2"
-  resolved "http://registry.npm.taobao.org/uglify-js/download/uglify-js-3.5.2.tgz#dc0c7ac2da0a4b7d15e84266818ff30e82529474"
-  dependencies:
-    commander "~2.19.0"
-    source-map "~0.6.1"
-
-uglify-js@^3.1.4:
+uglify-js@^3.0.27, uglify-js@^3.0.5, uglify-js@^3.1.4:
   version "3.7.2"
   resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.7.2.tgz#cb1a601e67536e9ed094a92dd1e333459643d3f9"
   integrity sha512-uhRwZcANNWVLrxLfNFEdltoPNhECUR3lc+UdJoG9CBpMcSnKyWA94tc3eAujB1GcMY5Uwq8ZMp4qWpxWYDQmaA==
