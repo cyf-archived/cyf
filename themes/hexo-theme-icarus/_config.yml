@@ -31,8 +31,8 @@ navbar:
     Archives: /archives/
     Categories: /categories/
     Tags: /tags/
-    five: /five/
-    The Next: https://next.chenyifaer.com || thumbs-up
+    Five: /five/
+    The Next: https://next.chenyifaer.com
   # Navigation bar links to be shown on the right
   links:
     Download on GitHub:
