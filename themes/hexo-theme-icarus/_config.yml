@@ -63,7 +63,7 @@ article:
     # Default folding status of the code blocks. Can be "", "folded", "unfolded"
     fold: unfolded
   # Whether to show article thumbnail images
-  thumbnail: true
+  thumbnail: false
   # Whether to show estimate article reading time
   readtime: true
 # Search plugin settings
