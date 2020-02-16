@@ -152,6 +152,14 @@ widgets:
     # Where should the widget be placed, left or right
     position: left
   - # Widget name
+    type: category
+    # Where should the widget be placed, left or right
+    position: left
+  - # Widget name
+    type: tagcloud
+    # Where should the widget be placed, left or right
+    position: left
+  - # Widget name
     type: links
     # Where should the widget be placed, left or right
     position: left
@@ -161,14 +169,6 @@ widgets:
       Gitee: https://gitee.com/chenyifaerfans
       Kjxbyz: https://kjxbyz.com
       Loadream: https://67373.loadream.com
-  - # Widget name
-    type: category
-    # Where should the widget be placed, left or right
-    position: left
-  - # Widget name
-    type: tagcloud
-    # Where should the widget be placed, left or right
-    position: left
   - # Widget name
     type: recent_posts
     # Where should the widget be placed, left or right
