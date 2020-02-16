@@ -80,7 +80,7 @@ module.exports = function (hexo) {
         else if (hasThumbnail)
             og_image = getThumbnail(post);
         else
-            og_image = getConfig('article.og_image', '/images/og_image.png');
+            og_image = getConfig('article.og_image', '/images/og_image.jpg');
 
         return this.url_for(og_image);
     });
