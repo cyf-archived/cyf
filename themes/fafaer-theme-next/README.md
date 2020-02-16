@@ -1,1 +1,0 @@
-# fafaer-theme-next
