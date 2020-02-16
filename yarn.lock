@@ -3054,13 +3054,6 @@ hexo-generator-category@1.0.0:
   dependencies:
     hexo-pagination "1.0.0"
 
-hexo-generator-index@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/hexo-generator-index/-/hexo-generator-index-1.0.0.tgz#8c9f157dcfa0af4f8417f77a4eb5b3831f69a719"
-  integrity sha512-L25MdZ7e5ar/F8lIW+zBNNlA4f5A8CBUOYi1IQZCgL3wPVW+AWn66RSM5UVBAbiw5yxDeTHdk0sJYXbhSBaOFQ==
-  dependencies:
-    hexo-pagination "1.0.0"
-
 hexo-generator-searchdb@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/hexo-generator-searchdb/-/hexo-generator-searchdb-1.2.0.tgz#ebf1ec38be78d447d4ae7b7f358d312473a7a90b"
@@ -3074,6 +3067,11 @@ hexo-generator-tag@1.0.0:
   integrity sha512-JDoB2T1EncRlyGSjuAhkGxRfKkN8tq0i8tFlk9I4q2L6iYxPaUnFenhji0oxufTADC16/IchuPjmMk//dt8Msg==
   dependencies:
     hexo-pagination "1.0.0"
+
+hexo-generator-topindex@0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-topindex/-/hexo-generator-topindex-0.3.0.tgz#f85147fb13d5fd9ed0f7a7cdb640dc21383f3d44"
+  integrity sha1-+FFH+xPV/Z7Q96fNtkDcITg/PUQ=
 
 hexo-i18n@^1.0.0:
   version "1.0.0"
@@ -6282,7 +6280,8 @@ util-deprecate@^1.0.1, util-deprecate@~1.0.1:
 
 utils-merge@1.0.1:
   version "1.0.1"
-  resolved "http://registry.npm.taobao.org/utils-merge/download/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
+  resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
+  integrity sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=
 
 v8-compile-cache@^2.0.0:
   version "2.1.0"
