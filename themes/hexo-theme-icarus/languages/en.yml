@@ -16,6 +16,7 @@ common:
         other: Five
     prev: 'Previous'
     next: 'Next'
+    top: 'Top'
 widget:
     follow: 'Follow'
     recents: 'Recent'
