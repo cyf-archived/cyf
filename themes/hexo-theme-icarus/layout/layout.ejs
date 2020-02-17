@@ -3,7 +3,7 @@
 <head>
     <%- _partial('common/head') %>
 </head>
-<body class="is-<%= column_count() %>-column">
+<body class="is-<%= column_count() %>-column" id="root">
     <%- _partial('common/navbar') %>
     <% function main_column_class() {
         switch (column_count()) {
