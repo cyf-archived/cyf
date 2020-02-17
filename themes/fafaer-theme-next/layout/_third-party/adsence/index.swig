@@ -1,1 +1,0 @@
-{% include 'google-adsense.swig' %}
