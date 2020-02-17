@@ -57,7 +57,7 @@ article:
   highlight:
     # Code highlight themes
     # https://github.com/highlightjs/highlight.js/tree/master/src/styles
-    theme: atom-one-light
+    theme: atom-one-light.min
     # Show code copying button
     clipboard: true
     # Default folding status of the code blocks. Can be "", "folded", "unfolded"
@@ -220,7 +220,7 @@ plugins:
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
   # Name or URL of the JavaScript and/or stylesheet CDN provider
-  cdn: jsdelivr
+  cdn: alioss
   # Name or URL of the webfont CDN provider
   fontcdn: google
   # Name or URL of the webfont Icon CDN provider
