@@ -9,7 +9,7 @@ canonical_url:
 # Path or URL to RSS atom.xml
 rss:
 # Path or URL to the website's logo to be shown on the left of the navigation bar or footer
-logo: /images/logo.jpg
+logo: https://cdn.chenyifaer.com/images/logo.jpg
 # Open Graph metadata
 # https://hexo.io/docs/helpers.html#open-graph
 open_graph:
@@ -97,8 +97,7 @@ donate:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
   # Share plugin name
-  type: sharethis
-  install_url: https://platform-api.sharethis.com/js/sharethis.js#property=5e4759e514da310012d33686&&product=custom-share-buttons  # (required)
+  type:
 # Sidebar settings.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
