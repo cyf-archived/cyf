@@ -16,7 +16,7 @@ common:
         other: Five
     prev: '上一頁'
     next: '下一頁'
-    top: '置顶'
+    top: '置頂'
 widget:
     follow: '追蹤'
     recents: '最新文章'
@@ -33,11 +33,9 @@ article:
     about: '大約'
     words: '個字'
 donate:
-    title: '喜歡這篇文章嗎? 贊助一下作者吧!'
+    title: '用戶量暴增, 用於購買OSS資源'
     alipay: '支付寶'
     wechat: 'WeChat'
-    paypal: 'PayPal'
-    patreon: 'Patreon'
 plugin:
     backtotop: '回到頁首'
 search:
