@@ -37,7 +37,7 @@
     "hexo-renderer-marked": "2.0.0",
     "hexo-renderer-stylus": "1.1.0",
     "hexo-server": "1.0.0",
-    "hexo-symbols-count-time": "0.7.0",
+    "hexo-symbols-count-time": "0.7.1",
     "hexo-tag-aplayer": "3.0.4",
     "hexo-tag-dplayer": "0.3.3",
     "natives": "1.1.6"
