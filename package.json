@@ -31,6 +31,7 @@
     "hexo-generator-searchdb": "1.2.0",
     "hexo-generator-tag": "1.0.0",
     "hexo-generator-topindex": "0.3.0",
+    "hexo-hide-posts": "^0.1.0",
     "hexo-lazyload-image": "1.0.6",
     "hexo-renderer-ejs": "1.0.0",
     "hexo-renderer-marked": "2.0.0",
@@ -42,7 +43,7 @@
     "natives": "1.1.6"
   },
   "devDependencies": {
-    "@babel/core": "7.8.4",
+    "@babel/core": "7.8.7",
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-conventional": "8.3.4",
     "babel-core": "7.0.0-bridge.0",
@@ -56,8 +57,8 @@
     "gulp-uglify": "3.0.2",
     "gulp-util": "^3.0.8",
     "husky": "4.2.3",
-    "lint-staged": "10.0.7",
-    "sort-package-json": "1.39.1"
+    "lint-staged": "10.0.8",
+    "sort-package-json": "1.40.0"
   },
   "hexo": {
     "version": "4.2.0"

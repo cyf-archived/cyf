@@ -9,7 +9,8 @@
 const cdn_providers = {
     cdnjs: 'https://cdnjs.cloudflare.com/ajax/libs/${ package }/${ version }/${ filename }',
     jsdelivr: 'https://cdn.jsdelivr.net/npm/${ package }@${ version }/${ filename }',
-    unpkg: 'https://unpkg.com/${ package }@${ version }/${ filename }'
+    unpkg: 'https://unpkg.com/${ package }@${ version }/${ filename }',
+    alioss: 'https://assets.chenyifaer.com/common/${ package }@${ version }/${ filename }',
 };
 
 const font_providers = {
@@ -17,7 +18,7 @@ const font_providers = {
 };
 
 const icon_providers = {
-    fontawesome: 'https://use.fontawesome.com/releases/v5.4.1/css/all.css'
+    fontawesome: 'https://assets.chenyifaer.com/common/fontawesome@v5.4.1/css/all.css'
 };
 
 module.exports = function (hexo) {

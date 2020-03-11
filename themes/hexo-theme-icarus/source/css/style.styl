@@ -15,6 +15,11 @@ html
 body
     background-color: #f7f7f7
 
+@media (prefers-color-scheme: dark)
+    body
+        color: white !important
+        background-color: #242424
+
 body, button, input, select, textarea
     font-family: family-sans
 
@@ -112,11 +117,20 @@ img.thumbnail
         .navbar-end
             margin-left: 0
 
+@media (prefers-color-scheme: dark)
+    .nav
+        background-color: #242424 !important
+    .navbar-main
+        box-shadow: 0 4px 10px rgba(255, 255, 255, 0.05)
 .footer
     background: white
     .field
         .button
             background: transparent
+
+@media (prefers-color-scheme: dark)
+    .footer
+        background: black
 
 .widget
     .media
@@ -170,6 +184,12 @@ img.thumbnail
             background: white
         &:first-child:last-child:after
             top: calc(0.3rem + 9px)
+
+@media (prefers-color-scheme: dark)
+    .timeline
+        .media
+            &:last-child:after
+                background: black
 
 .article
     .article-meta
@@ -307,6 +327,10 @@ img.thumbnail
 
 .has-link-black-ter
     color: hsl(0, 0%, 14%) !important
+
+@media (prefers-color-scheme: dark)
+    .has-link-black-ter
+        color: white !important
 
 @media screen and (max-width: screen-tablet - 1)
     .has-text-centered-mobile
