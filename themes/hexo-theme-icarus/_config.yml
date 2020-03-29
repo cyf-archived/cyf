@@ -35,23 +35,32 @@ navbar:
     Five: /five/
     The Next: https://next.chenyifaer.com
   # Navigation bar links to be shown on the right
-  links:
-    Download on GitHub:
-      icon: fab fa-github
-      url: 'https://github.com/chenyifaerfans'
+#  links:
+#    GitHub:
+#      icon: fab fa-github
+#      url: 'https://github.com/chenyifaerfans/chenyifaerfans'
 # Footer section link settings
 footer:
   # Links to be shown on the right of the footer section
   links:
-    Creative Commons:
-      icon: fab fa-creative-commons
-      url: 'https://creativecommons.org/'
-    Attribution 4.0 International:
-      icon: fab fa-creative-commons-by
-      url: 'https://creativecommons.org/licenses/by/4.0/'
-    Download on GitHub:
+    Instagram:
+      icon: fab fa-instagram
+      url: 'https://instagram.com/yifaer_chen'
+    微博超话:
+      icon: fab fa-weibo
+      url: 'https://huati.weibo.com/1362650'
+    Kjxbyz:
+      icon: fas fa-paper-plane
+      url: 'https://kjxbyz.com'
+    GitHub:
       icon: fab fa-github
       url: 'https://github.com/chenyifaerfans/chenyifaerfans'
+    Gitee:
+      icon: fab fa-git
+      url: 'https://gitee.com/chenyifaerfans/chenyifaerfans'
+    Loadream:
+      icon: fas fa-paperclip
+      url: 'https://67373.loadream.com'
 # Article display settings
 article:
   # Code highlight settings
@@ -132,21 +141,21 @@ widgets:
     # Whether to show avatar image rounded or square
     avatar_rounded: false
     # Path or URL for the follow button
-    follow_link: 'https://github.com/chenyifaerfans'
+#    follow_link: 'https://github.com/chenyifaerfans'
     # Links to be shown on the bottom of the profile widget
-    social_links:
-      Github:
-        icon: fab fa-github
-        url: 'https://github.com/chenyifaerfans'
-      微博超话:
-        icon: fab fa-weibo
-        url: https://huati.weibo.com/1362650
-      Instagram:
-        icon: fab fa-instagram
-        url: 'https://instagram.com/yifaer_chen'
-      RSS:
-        icon: fas fa-rss
-        url: /
+#    social_links:
+#      Github:
+#        icon: fab fa-github
+#        url: 'https://github.com/chenyifaerfans'
+#      微博超话:
+#        icon: fab fa-weibo
+#        url: https://huati.weibo.com/1362650
+#      Instagram:
+#        icon: fab fa-instagram
+#        url: 'https://instagram.com/yifaer_chen'
+#      RSS:
+#        icon: fas fa-rss
+#        url: /
   - # Widget name
     type: toc
     # Where should the widget be placed, left or right
@@ -156,29 +165,29 @@ widgets:
     # Where should the widget be placed, left or right
     position: left
   - # Widget name
-    type: tagcloud
+    type: tag
     # Where should the widget be placed, left or right
     position: left
-  - # Widget name
-    type: links
-    # Where should the widget be placed, left or right
-    position: left
-    # Links to be shown in the links widget
-    links:
-      Github: https://github.com/chenyifaerfans
-      Gitee: https://gitee.com/chenyifaerfans
-      Kjxbyz: https://kjxbyz.com
-      Loadream: https://67373.loadream.com
+#  - # Widget name
+#    type: tagcloud
+#    # Where should the widget be placed, left or right
+#    position: left
+#  - # Widget name
+#    type: links
+#    # Where should the widget be placed, left or right
+#    position: left
+#    # Links to be shown in the links widget
+#    links:
+#      Github: https://github.com/chenyifaerfans
+#      Gitee: https://gitee.com/chenyifaerfans
+#      Kjxbyz: https://kjxbyz.com
+#      Loadream: https://67373.loadream.com
   - # Widget name
     type: recent_posts
     # Where should the widget be placed, left or right
     position: right
   - # Widget name
     type: archive
-    # Where should the widget be placed, left or right
-    position: right
-  - # Widget name
-    type: tag
     # Where should the widget be placed, left or right
     position: right
 # Other plugin settings
