@@ -14,6 +14,9 @@ common:
     five:
         one: Five
         other: Five
+    about:
+        one: About
+        other: About
     prev: 'Previous'
     next: 'Next'
     top: 'Top'
