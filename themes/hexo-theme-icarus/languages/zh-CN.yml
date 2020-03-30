@@ -12,8 +12,11 @@ common:
         one: '文章'
         other: '文章'
     five:
-        one: Five
-        other: Five
+        one: 五周年
+        other: 五周年
+    about:
+        one: 关于
+        other: 关于
     prev: '上一页'
     next: '下一页'
     top: '置顶'
