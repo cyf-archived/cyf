@@ -1,4 +1,7 @@
 common:
+    home:
+        one: 首頁
+        other: 首頁
     archive:
         one: '彙整'
         other: '彙整'
@@ -11,6 +14,9 @@ common:
     post:
         one: '文章'
         other: '文章'
+    reward:
+        one: 打賞
+        other: 打賞
     five:
         one: Five
         other: Five
