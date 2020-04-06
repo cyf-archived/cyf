@@ -28,7 +28,7 @@
     "hexo-deployer-git": "2.1.0",
     "hexo-generator-archive": "1.0.0",
     "hexo-generator-category": "1.0.0",
-    "hexo-generator-searchdb": "1.2.1",
+    "hexo-generator-searchdb": "1.3.0",
     "hexo-generator-tag": "1.0.0",
     "hexo-generator-topindex": "0.3.0",
     "hexo-hide-posts": "^0.1.0",
