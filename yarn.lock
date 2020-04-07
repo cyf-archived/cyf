@@ -3201,10 +3201,10 @@ hexo-generator-category@1.0.0:
   dependencies:
     hexo-pagination "1.0.0"
 
-hexo-generator-searchdb@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/hexo-generator-searchdb/-/hexo-generator-searchdb-1.2.1.tgz#9afc0a912df72deb15b69b7738197c075d0af916"
-  integrity sha512-VRGstHHid86cco4GhGxq9RbWF0+U994hQ/AitTSzgql4/XUQLveYa99h+BXtVA1Z7ZywGD5iiqDRKwCV7miDog==
+hexo-generator-searchdb@1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-searchdb/-/hexo-generator-searchdb-1.3.0.tgz#c76b5a454508142e74af1a9ea1fa926aa2b5585d"
+  integrity sha512-/il9rKrlSW4afZ/obeAOAH+482MXHLL7vbaX+S9/kT2pTnZKw/9YI16idOGzVY6EU1/FH6JnBiRfr6Ckr9Zrww==
   dependencies:
     nunjucks "^3.2.1"
 
