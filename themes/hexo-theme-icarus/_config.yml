@@ -27,14 +27,14 @@ open_graph:
 navbar:
   # Navigation bar menu links
   menu:
-    home: /
-    archive: /archives/
-    category: /categories/
-    tag: /tags/
-    reward: /reward/
-    five: /five/
-    about: /about/
-#    The Next: https://next.chenyifaer.com
+    'common.home': /
+    'common.archive': /archives/
+    'common.category': /categories/
+    'common.tag': /tags/
+    'common.reward': /reward/
+    'common.five': /five/
+    'common.about': /about/
+    The Next: https://next.chenyifaer.com
   # Navigation bar links to be shown on the right
 #  links:
 #    GitHub:
