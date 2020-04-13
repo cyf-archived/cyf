@@ -1,4 +1,7 @@
 common:
+    home:
+        one: 首页
+        other: 首页
     archive:
         one: '归档'
         other: '归档'
@@ -11,6 +14,9 @@ common:
     post:
         one: '文章'
         other: '文章'
+    reward:
+        one: 打赏
+        other: 打赏
     five:
         one: 五周年
         other: 五周年
