@@ -1,4 +1,7 @@
 common:
+    home:
+        one: Home
+        other: Home
     archive:
         one: 'Archive'
         other: 'Archives'
@@ -11,6 +14,9 @@ common:
     post:
         one: 'Post'
         other: 'Posts'
+    reward:
+        one: Reward
+        other: Reward
     five:
         one: Five
         other: Five
