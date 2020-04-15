@@ -14,7 +14,7 @@
             <div class="navbar-start">
                 <% for (let i in menus) { let menu = menus[i]; %>
                 <a class="navbar-item<% if (actives[i]) { %> is-active<% } %>"
-                href="<%- url_for(menu) %>"><%= i %></a>
+                href="<%- url_for(menu) %>"><%= _p(i) %></a>
                 <% } %>
             </div>
             <% } %>
