@@ -57,7 +57,7 @@
     "gulp-uglify": "3.0.2",
     "gulp-util": "^3.0.8",
     "husky": "4.2.5",
-    "lint-staged": "10.1.6",
+    "lint-staged": "10.1.7",
     "sort-package-json": "1.42.0"
   },
   "hexo": {
