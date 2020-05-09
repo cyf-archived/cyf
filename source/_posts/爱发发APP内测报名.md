@@ -8,4 +8,6 @@ tags:
 top: true
 ---
 
-iOS测试版通过[testFlight](https://developer.apple.com/testflight/)分发, 想参与内测的留言写下自己的AppleId， 会发送邀请参与内测.
+iOS测试版通过[testFlight](https://developer.apple.com/testflight)分发, 想参与内测的留言写下自己的AppleId邮箱， 会发送邀请参与内测.
+
+Android测试版通过[蒲公英](https://www.pgyer.com)分发, 会发送邀请参与内测.
