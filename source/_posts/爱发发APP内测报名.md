@@ -8,6 +8,4 @@ tags:
 top: true
 ---
 
-iOS测试版通过[testFlight](https://developer.apple.com/testflight)分发, 想参与内测的留言写下自己的AppleId邮箱， 会发送邀请参与内测.
-
-Android测试版通过[蒲公英](https://www.pgyer.com)分发, 会发送邀请参与内测.
+5月10日晚上, 小白被告知APP禁止上架, 包含发发的内容涉及到侵权, 谢谢各位的支持.
