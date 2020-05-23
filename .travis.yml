@@ -22,8 +22,6 @@ script:
 
 deploy:
   provider: pages
-  repo: chenyifaerfans/chenyifaerfans.github.io
-  target_branch: master
   email: kjxbyz@163.com
   name: kjxbyz
   skip_cleanup: true
