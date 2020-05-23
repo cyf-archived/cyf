@@ -1,0 +1,1 @@
+#back-to-top{position:fixed;padding:8px 0;transition:.4s ease opacity,.4s ease width,.4s ease transform,.4s ease border-radius;opacity:0;line-height:24px;outline:0;transform:translateY(120px)}#back-to-top.fade-in{opacity:1}#back-to-top.rise-up{transform:translateY(0)}
