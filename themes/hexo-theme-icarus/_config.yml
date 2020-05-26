@@ -183,14 +183,14 @@ widgets:
 #      Gitee: https://gitee.com/chenyifaerfans
 #      Kjxbyz: https://kjxbyz.com
 #      Loadream: https://67373.loadream.com
-  - # Widget name
-    type: recent_posts
-    # Where should the widget be placed, left or right
-    position: right
-  - # Widget name
-    type: archive
-    # Where should the widget be placed, left or right
-    position: right
+#  - # Widget name
+#    type: recent_posts
+#    # Where should the widget be placed, left or right
+#    position: left
+#  - # Widget name
+#    type: archive
+#    # Where should the widget be placed, left or right
+#    position: right
 # Other plugin settings
 plugins:
   # Enable page animations
