@@ -18,7 +18,7 @@ install:
 
 # ~/build/chenyifaerfans/chenyifaerfans
 script:
-  - ./scripts/build.sh
+  - chmod +x ./scripts/build.sh && ./scripts/build.sh
 #  - hexo clean && hexo g && gulp
 #  - mkdir ~/build/chenyifaerfans/blog && cd ./public && touch CNAME && echo 'chenyifaer.com' > CNAME && cd ..
 #  - cp -avx ./public/* ../blog
