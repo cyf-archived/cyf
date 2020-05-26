@@ -18,15 +18,7 @@ install:
 
 # ~/build/chenyifaerfans/chenyifaerfans
 script:
-  - chmod +x ./scripts/build.sh && ./scripts/build.sh
-#  - hexo clean && hexo g && gulp
-#  - mkdir ~/build/chenyifaerfans/blog && cd ./public && touch CNAME && echo 'chenyifaer.com' > CNAME && cd ..
-#  - cp -avx ./public/* ../blog
-#  - cd ~/build/chenyifaerfans/chenyifaerfans
-#  - git checkout -b en origin/en
-#  - yarn install
-#  - hexo clean && hexo g && gulp
-#  - mkdir ~/build/chenyifaerfans/blog/en && cp -avx ./public/* ../blog/en
+  - chmod +x ./build.sh && ./build.sh
 
 deploy:
   provider: pages
