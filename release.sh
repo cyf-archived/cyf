@@ -15,4 +15,3 @@ for (( i = 0; i < ${#languages[@]}; ++i )); do
         mkdir ~/build/chenyifaerfans/blog/en && cp -avx ./public/* ../blog/en/
     fi
 done
-
