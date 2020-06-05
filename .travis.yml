@@ -19,6 +19,7 @@ install:
 # ~/build/chenyifaerfans/chenyifaerfans
 script:
   - hexo clean && hexo g --config _config.yml && gulp
+  - cd ./public && touch CNAME && echo 'chenyifaer.com' > CNAME && cd ..
 #  - chmod +x ./release.sh && ./release.sh
 
 deploy:
