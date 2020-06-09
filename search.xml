@@ -283,10 +283,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-dJZppbYw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-ZysMHuqc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":0,"theme":"#e6d0b2","listmaxheight":"513px","music":[{"title":"再生","author":"小橘猫","url":"https://cdn.chenyifaer.com/小橘猫/小橘猫-再生.mp3","pic":"https://cdn.chenyifaer.com/cover/cover.jpg"}]};
-				  options.element = document.getElementById("aplayer-dJZppbYw");
+				  options.element = document.getElementById("aplayer-ZysMHuqc");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -310,10 +310,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-VUuUhMVG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-gJunwekX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":0,"theme":"#e6d0b2","listmaxheight":"513px","music":[{"title":"夜空中最亮的星","author":"小橘猫","url":"https://cdn.chenyifaer.com/小橘猫/小橘猫-夜空中最亮的星.mp3","pic":"https://cdn.chenyifaer.com/cover/cover.jpg"}]};
-				  options.element = document.getElementById("aplayer-VUuUhMVG");
+				  options.element = document.getElementById("aplayer-gJunwekX");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -337,10 +337,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-XQdavoeb" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-nHspBDer" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":0,"theme":"#e6d0b2","listmaxheight":"513px","music":[{"title":"女人花","author":"小橘猫","url":"https://cdn.chenyifaer.com/小橘猫/小橘猫-女人花.mp3","pic":"https://cdn.chenyifaer.com/cover/cover.jpg"}]};
-				  options.element = document.getElementById("aplayer-XQdavoeb");
+				  options.element = document.getElementById("aplayer-nHspBDer");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -362,10 +362,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-zPasNCKo" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-lYCqJxSh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":0,"theme":"#e6d0b2","listmaxheight":"513px","music":[{"title":"心动","author":"小橘猫","url":"https://cdn.chenyifaer.com/小橘猫/小橘猫-心动.mp3","pic":"https://cdn.chenyifaer.com/cover/cover.jpg"}]};
-				  options.element = document.getElementById("aplayer-zPasNCKo");
+				  options.element = document.getElementById("aplayer-lYCqJxSh");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -387,10 +387,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-WmWnDgiB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-llwIJKAd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":0,"theme":"#e6d0b2","listmaxheight":"513px","music":[{"title":"梦一场","author":"小橘猫","url":"https://cdn.chenyifaer.com/小橘猫/小橘猫-梦一场.mp3","pic":"https://cdn.chenyifaer.com/cover/cover.jpg"}]};
-				  options.element = document.getElementById("aplayer-WmWnDgiB");
+				  options.element = document.getElementById("aplayer-llwIJKAd");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -414,10 +414,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-raMCOjBi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-JeQsvWGR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":0,"theme":"#e6d0b2","listmaxheight":"513px","music":[{"title":"追光者","author":"小橘猫","url":"https://cdn.chenyifaer.com/小橘猫/小橘猫-追光者.mp3","pic":"https://cdn.chenyifaer.com/cover/cover.jpg"}]};
-				  options.element = document.getElementById("aplayer-raMCOjBi");
+				  options.element = document.getElementById("aplayer-JeQsvWGR");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -439,10 +439,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-cnquiOPm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-VBWohOiJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":0,"theme":"#e6d0b2","listmaxheight":"513px","music":[{"title":"逆光","author":"小橘猫","url":"https://cdn.chenyifaer.com/小橘猫/小橘猫-逆光.mp3","pic":"https://cdn.chenyifaer.com/cover/cover.jpg"}]};
-				  options.element = document.getElementById("aplayer-cnquiOPm");
+				  options.element = document.getElementById("aplayer-VBWohOiJ");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -465,10 +465,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-Jzdejbze" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-lDbefOds" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":0,"theme":"#e6d0b2","listmaxheight":"513px","music":[{"title":"陪你度过漫长岁月","author":"小橘猫","url":"https://cdn.chenyifaer.com/videos/小橘猫-陪你度过漫长岁月.wav","pic":"https://cdn.chenyifaer.com/cover/cover.jpg"}]};
-				  options.element = document.getElementById("aplayer-Jzdejbze");
+				  options.element = document.getElementById("aplayer-lDbefOds");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -2421,6 +2421,54 @@
       </tags>
   </entry>
   <entry>
+    <title>发酱感谢礼物系列（20190119）</title>
+    <url>/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97/201901/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97%E4%B9%8B20190119/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图片来自于<a href="https://weibo.com/p/1005051720171447" target="_blank">quanmmmmm</a><br/>“活适，谢谢amx～”</p>
+<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6989.JPG" alt=""></p>
+<a id="more"></a>
+
+<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6990.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6991.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6992.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6993.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6994.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6995.JPG" alt=""></p>
+]]></content>
+      <categories>
+        <category>图片</category>
+      </categories>
+      <tags>
+        <tag>发酱感谢礼物</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>发酱感谢礼物系列（20190120）</title>
+    <url>/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97/201901/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97%E4%B9%8B20190120/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图片来自于<a href="https://weibo.com/p/1005051720171447" target="_blank">quanmmmmm</a><br/>“谢谢66，吼吼看～😍😍” </p>
+<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190120/IMG_6996.JPG" alt=""></p>
+<a id="more"></a>
+
+<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190120/IMG_6997.JPG" alt=""></p>
+]]></content>
+      <categories>
+        <category>图片</category>
+      </categories>
+      <tags>
+        <tag>发酱感谢礼物</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>发酱感谢礼物系列（20190121）</title>
+    <url>/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97/201901/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97%E4%B9%8B20190121/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图片来自于<a href="https://weibo.com/p/1005051720171447" target="_blank">quanmmmmm</a><br/>“谢谢加加加零（十十十零，十十十欧，加加加欧）好丰富～” ​</p>
+<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_6998.JPG" alt=""></p>
+<a id="more"></a>
+
+<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_6999.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7001.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7002.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7003.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7004.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7005.JPG" alt=""></p>
+]]></content>
+      <categories>
+        <category>图片</category>
+      </categories>
+      <tags>
+        <tag>发酱感谢礼物</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>发酱感谢礼物系列（20191103）</title>
     <url>/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97/201911/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97%E4%B9%8B20191103/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图片来自于<a href="https://weibo.com/p/1005051720171447" target="_blank">quanmmmmm</a><br/> “谢谢＋＋＋0～礼物也太丰富了吧，手办玩偶香薰漫画书，还有小德的玩具！我好久没看漫画啦，这部《交响情人梦》很出名啊，一直有听说但还没看过，这次正好补一下小时候的课。目前看了一半，和小时候看少女漫画的感觉不太一样，经常看着看着脑子里都是问号。（富二代为何会和连煤气都交不起的贫穷女主角住隔壁？英俊有才华烂脾气的富二代千秋怎么可能会帮隔壁邋遢不爱干净的野田妹做家务还每天做饭吃？）</p>
@@ -2609,54 +2657,6 @@
 <a id="more"></a>
 
 <p><img src="/images/loading.gif" data-original="https://s2.ax1x.com/2019/12/12/QyZUiR.jpg" alt=""><br><img src="/images/loading.gif" data-original="https://s2.ax1x.com/2019/12/12/QyZdRx.jpg" alt=""><br><img src="/images/loading.gif" data-original="https://s2.ax1x.com/2019/12/12/QyZto9.jpg" alt=""></p>
-]]></content>
-      <categories>
-        <category>图片</category>
-      </categories>
-      <tags>
-        <tag>发酱感谢礼物</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>发酱感谢礼物系列（20190119）</title>
-    <url>/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97/201901/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97%E4%B9%8B20190119/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图片来自于<a href="https://weibo.com/p/1005051720171447" target="_blank">quanmmmmm</a><br/>“活适，谢谢amx～”</p>
-<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6989.JPG" alt=""></p>
-<a id="more"></a>
-
-<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6990.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6991.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6992.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6993.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6994.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190119/IMG_6995.JPG" alt=""></p>
-]]></content>
-      <categories>
-        <category>图片</category>
-      </categories>
-      <tags>
-        <tag>发酱感谢礼物</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>发酱感谢礼物系列（20190120）</title>
-    <url>/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97/201901/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97%E4%B9%8B20190120/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图片来自于<a href="https://weibo.com/p/1005051720171447" target="_blank">quanmmmmm</a><br/>“谢谢66，吼吼看～😍😍” </p>
-<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190120/IMG_6996.JPG" alt=""></p>
-<a id="more"></a>
-
-<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190120/IMG_6997.JPG" alt=""></p>
-]]></content>
-      <categories>
-        <category>图片</category>
-      </categories>
-      <tags>
-        <tag>发酱感谢礼物</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>发酱感谢礼物系列（20190121）</title>
-    <url>/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97/201901/%E5%8F%91%E9%85%B1%E6%84%9F%E8%B0%A2%E7%A4%BC%E7%89%A9%E7%B3%BB%E5%88%97%E4%B9%8B20190121/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>图片来自于<a href="https://weibo.com/p/1005051720171447" target="_blank">quanmmmmm</a><br/>“谢谢加加加零（十十十零，十十十欧，加加加欧）好丰富～” ​</p>
-<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_6998.JPG" alt=""></p>
-<a id="more"></a>
-
-<p><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_6999.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7001.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7002.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7003.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7004.JPG" alt=""><br><img src="/images/loading.gif" data-original="https://cdn.chenyifaer.com/photos/gifts/201901/20190121/IMG_7005.JPG" alt=""></p>
 ]]></content>
       <categories>
         <category>图片</category>
