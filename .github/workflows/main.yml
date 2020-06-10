@@ -1,0 +1,32 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Hexo Deploy
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+     - uses: sma11black/hexo-action@v1.0.1
+       with:
+         # Github user name
+         user_name: upcwangying # default is github-actions[bot]
+         # Github email
+         user_email: upcwangying@126.com # default is 41898282+github-actions[bot]@users.noreply.github.com
+         # The deploy key for Github Pages repo
+         deploy_key: '' # default is 
+         # Git commit messages to your GitHub Pages repository.
+         commit_msg: '' # optional, default is 
