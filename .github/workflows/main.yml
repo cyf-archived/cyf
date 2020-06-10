@@ -27,6 +27,6 @@ jobs:
          # Github email
          user_email: upcwangying@126.com # default is 41898282+github-actions[bot]@users.noreply.github.com
          # The deploy key for Github Pages repo
-         deploy_key: ${{ secrets.GITHUB_TOKEN }} # default is 
+         deploy_key: ${{ secrets.HEXO_DEPLOY_TOKEN }} # default is 
          # Git commit messages to your GitHub Pages repository.
          commit_msg: '' # optional, default is 
