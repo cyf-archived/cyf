@@ -43,7 +43,7 @@
     "natives": "1.1.6"
   },
   "devDependencies": {
-    "@babel/core": "7.9.6",
+    "@babel/core": "7.10.2",
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-conventional": "8.3.4",
     "babel-core": "7.0.0-bridge.0",
@@ -57,8 +57,8 @@
     "gulp-uglify": "3.0.2",
     "gulp-util": "^3.0.8",
     "husky": "4.2.5",
-    "lint-staged": "10.2.6",
-    "sort-package-json": "1.42.2"
+    "lint-staged": "10.2.9",
+    "sort-package-json": "1.44.0"
   },
   "hexo": {
     "version": "4.2.1"
