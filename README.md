@@ -2,13 +2,13 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/093e9a03-9b2e-4686-aead-4c54ac83a208/deploy-status)](https://app.netlify.com/sites/chenyifaer/deploys)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fchenyifaer.com)](https://chenyifaer.com)
-![GitHub repo size](https://img.shields.io/github/repo-size/chenyifaerfans/chenyifaerfans)
-![GitHub last commit](https://img.shields.io/github/last-commit/chenyifaerfans/chenyifaerfans)
-[![GitHub](https://img.shields.io/github/license/chenyifaerfans/chenyifaerfans)](https://github.com/chenyifaerfans/chenyifaerfans/blob/master/LICENSE.md)
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/chenyifaerfans/chenyifaerfans/hexo)
-![GitHub contributors](https://img.shields.io/github/contributors/chenyifaerfans/chenyifaerfans)
+![GitHub repo size](https://img.shields.io/github/repo-size/cyf/cyf)
+![GitHub last commit](https://img.shields.io/github/last-commit/cyf/cyf)
+[![GitHub](https://img.shields.io/github/license/cyf/cyf)](https://github.com/cyf/cyf/blob/master/LICENSE.md)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/cyf/cyf/hexo)
+![GitHub contributors](https://img.shields.io/github/contributors/cyf/cyf)
 
-如果您对网站有好的建议，[传送门](https://github.com/chenyifaerfans/chenyifaerfans/issues/35)
+如果您对网站有好的建议，[传送门](https://github.com/cyf/cyf/issues/35)
 
 ## Contributors
 
