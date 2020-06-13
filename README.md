@@ -1,7 +1,7 @@
 # 小橘猫博客
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/093e9a03-9b2e-4686-aead-4c54ac83a208/deploy-status)](https://app.netlify.com/sites/chenyifaer/deploys)
-![Travis (.org)](https://img.shields.io/travis/chenyifaerfans/chenyifaerfans)
+![Travis (.org)](https://img.shields.io/travis/cyf/cyf)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fchenyifaer.com)](https://chenyifaer.com)
 ![GitHub repo size](https://img.shields.io/github/repo-size/cyf/cyf)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cyf/cyf)
