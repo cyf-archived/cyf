@@ -18,15 +18,9 @@ install:
 
 # ~/build/chenyifaerfans/chenyifaerfans
 script:
-  - ./scripts/build.sh
-#  - hexo clean && hexo g && gulp
-#  - mkdir ~/build/chenyifaerfans/blog && cd ./public && touch CNAME && echo 'chenyifaer.com' > CNAME && cd ..
-#  - cp -avx ./public/* ../blog
-#  - cd ~/build/chenyifaerfans/chenyifaerfans
-#  - git checkout -b en origin/en
-#  - yarn install
-#  - hexo clean && hexo g && gulp
-#  - mkdir ~/build/chenyifaerfans/blog/en && cp -avx ./public/* ../blog/en
+  - hexo clean && hexo g --config _config.yml && gulp
+  - cd ./public && touch CNAME && echo 'chenyifaer.com' > CNAME && cd ..
+#  - chmod +x ./release.sh && ./release.sh
 
 deploy:
   provider: pages
@@ -37,7 +31,7 @@ deploy:
   keep_history: true
   on:
     branch: master
-  local_dir: ../blog
+  local_dir: public
 
 #after_script:
 #  - git config --global user.name "kjxbyz"
