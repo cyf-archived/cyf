@@ -3260,10 +3260,10 @@ hexo-generator-topindex@0.3.0:
   resolved "https://registry.yarnpkg.com/hexo-generator-topindex/-/hexo-generator-topindex-0.3.0.tgz#f85147fb13d5fd9ed0f7a7cdb640dc21383f3d44"
   integrity sha1-+FFH+xPV/Z7Q96fNtkDcITg/PUQ=
 
-hexo-hide-posts@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/hexo-hide-posts/-/hexo-hide-posts-0.1.0.tgz#729bbe1e346118c45b601afcc45d97e32f549404"
-  integrity sha512-wi5oVbTZzrqxCY7hCGUWZEBPIE2lfIx22UvJv2t827q3gAgzdYW945QEXsHDYeIY2cLHobny4cqRhGsPY5lBRg==
+hexo-hide-posts@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/hexo-hide-posts/-/hexo-hide-posts-0.1.1.tgz#ff930e82114b3134c4f1bbc8a61e0ce12c0ac044"
+  integrity sha512-6r6zoPUHrR1+0Yzgmwzl+kKlOIqMaqx87TLWOLFTVHlNDu+CxcBLXaeRbcvkH1bWF77vUVYmlX+n+bGiLE6t5A==
 
 hexo-i18n@^1.0.0:
   version "1.0.0"
