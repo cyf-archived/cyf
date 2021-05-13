@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.10.5",
-    "@commitlint/cli": "9.1.1",
+    "@commitlint/cli": "12.1.4",
     "@commitlint/config-conventional": "9.1.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-plugin-transform-remove-strict-mode": "0.0.2",
